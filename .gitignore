@@ -17,3 +17,4 @@
 .byebug_history
 
 kt_freebie_ecommerce/*
+vendor/assets/bower_components/*
