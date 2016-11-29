@@ -1,0 +1,22 @@
+{
+  "name": "mystore",
+  "homepage": "https://github.com/novneetnov/mystore-app",
+  "authors": [
+    "novneetnov <novneet346iith@gmail.com>"
+  ],
+  "description": "An e-commerce store with custom theme",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/assets/bower_components",
+    "test",
+    "tests"
+  ],
+	"dependencies": {
+		"bootstrap": "~> 3.0"
+	}
+}
