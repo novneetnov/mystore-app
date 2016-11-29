@@ -343,10 +343,10 @@ Header and header elements
 	font-size: 0;
 	line-height:0;
 }
-*html .product-item {
+.product-item {
 	zoom: 1;
 }
-*+html .product-item {
+.product-item {
 	zoom: 1;
 }
 .sticker {
