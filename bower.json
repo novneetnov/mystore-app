@@ -17,6 +17,8 @@
     "tests"
   ],
 	"dependencies": {
-		"bootstrap": "~> 3.0"
+		"bootstrap": "~> 3.0",
+		"bootstrap-touchspin": "3.1.2",
+		"fancybox": "*"
 	}
 }

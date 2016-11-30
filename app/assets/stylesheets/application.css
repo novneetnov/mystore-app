@@ -13,6 +13,8 @@
 /*
 *
 *= require bootstrap
+*= require bootstrap-touchspin
+*= require fancybox/source/jquery.fancybox
 *= require_tree .
 *= require_self
 */

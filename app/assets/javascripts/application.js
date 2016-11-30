@@ -12,6 +12,8 @@
 //
 //= require jquery
 //= require bootstrap
+//= require bootstrap-touchspin
+//= require fancybox/source/jquery.fancybox.pack
 //= require jquery_ujs
 //= require turbolinks
 //= require_tree .
