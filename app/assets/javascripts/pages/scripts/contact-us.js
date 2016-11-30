@@ -24,4 +24,7 @@ var ContactUs = function () {
         }
     };
 
-}();
+};
+
+$(document).on('ready', ContactUs);
+

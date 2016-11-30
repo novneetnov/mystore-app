@@ -19,4 +19,6 @@ var Checkout = function () {
         }
     };
 
-}();
+};
+
+$(document).on('ready', Checkout);

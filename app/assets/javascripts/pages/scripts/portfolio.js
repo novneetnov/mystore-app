@@ -9,4 +9,7 @@ var Portfolio = function () {
 
     };
 
-}();
+};
+
+$(document).on('ready', Portfolio);
+

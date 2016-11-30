@@ -46,4 +46,6 @@ var BsCarousel = function () {
         });  
         
     })(jQuery);
-}();
+};
+
+$(document).on('ready', BsCarousel);
