@@ -14,6 +14,9 @@
 //= require bootstrap
 //= require bootstrap-touchspin
 //= require fancybox/source/jquery.fancybox.pack
+//= require jquery-slimscroll/jquery.slimscroll
+//= require owl.carousel
+//= require jquery-zoom
 //= require jquery_ujs
 //= require turbolinks
 //= require_tree .
